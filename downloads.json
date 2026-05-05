@@ -22,5 +22,22 @@
     "type": "lote",
     "version": "1.0",
     "description": "Músicas"
+  },
+ {
+    "name": "Pacote 500 Músicas",
+    "fileName": "Pasta09x02 - 500 Músicas.rar",
+    "url": "https://karaokejf-cdn.b-cdn.net/Pasta09x02%20-%20500%20M%C3%BAaicas.rar",
+    "type": "lote",
+    "version": "1.0",
+    "description": "Músicas"
   }
-]
+
+   {
+    "name": "Pacote 500 Músicas",
+    "fileName": "Pasta09x03 - 500 Músicas.rar",
+    "url": "https://karaokejf-cdn.b-cdn.net/Pasta09x03%20-%20500%20M%C3%BAsicas.rar",
+    "type": "lote",
+    "version": "1.0",
+    "description": "Músicas"
+  }
+  ]
