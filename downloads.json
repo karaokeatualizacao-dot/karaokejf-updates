@@ -38,5 +38,22 @@
     "type": "lote",
     "version": "1.0",
     "description": "Músicas"
+  },
+  
+ {
+    "name": "Pacote 500 Músicas",
+    "fileName": "Lote03-02-500-musicas.rar",
+    "url": "https://karaokejf-cdn.b-cdn.net/Lote03-02-500-musicas.rar",
+    "type": "lote",
+    "version": "1.0",
+    "description": "Músicas"
+  },
+   {
+    "name": "Pacote 500 Músicas",
+    "fileName": "Lote03-01-500-musicas.rar",
+    "url": "https://karaokejf-cdn.b-cdn.net/Lote03-01-500-musicas.rar",
+    "type": "lote",
+    "version": "1.0",
+    "description": "Músicas"
   }
   ]
