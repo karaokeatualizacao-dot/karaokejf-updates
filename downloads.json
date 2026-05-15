@@ -6,54 +6,5 @@
     "type": "Pacote",
     "version": "1.0.0",
     "description": "Pacote 1"
-  },
-  {
-    "name": "Pacote de músicas do KaraokêJF",
-    "fileName": "Pacote02-500-musicas.rar",
-    "url": "link da música aqui",
-    "type": "Pacote",
-    "version": "1.0.0",
-    "description": "Pacote 2"
-  },
-    {
-    "name": "Pacote de músicas do KaraokêJF",
-    "fileName": "Lote09-01-500-musicas.rar",
-    "url": "link da música aqui",
-    "type": "lote",
-    "version": "1.0",
-    "description": "Músicas"
-  },
-  {
-    "name": "Pacote de músicas do KaraokêJF",
-    "fileName": "Lote09-02-500-musicas.rar",
-    "url": "link da música aqui",
-    "type": "lote",
-    "version": "1.0",
-    "description": "Músicas"
-  },
- {
-    "name": "Pacote de músicas do KaraokêJFs",
-    "fileName": "Lote09-03-500-musicas.rar",
-    "url": "link da música aqui",
-    "type": "lote",
-    "version": "1.0",
-    "description": "Músicas"
- },
-  
- {
-    "name": "Pacote de músicas do KaraokêJF",
-    "fileName": "Lote03-02-500-musicas.rar",
-    "url": "link da música aqui",
-    "type": "lote",
-    "version": "1.0",
-    "description": "Músicas"
-  },
-   {
-    "name": "Pacote 500 Músicas",
-    "fileName": "Lote03-01-500-musicas.rar",
-    "url": "link da música aqui",
-    "type": "lote",
-    "version": "1.0",
-    "description": "Músicas"
   }
   ]
